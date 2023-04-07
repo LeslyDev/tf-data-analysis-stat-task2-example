@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from scipy.stats import norm
+from scipy.stats import erlang
 
 
 chat_id = 623406448 # Ваш chat ID, не меняйте название переменной
